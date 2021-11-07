@@ -2,6 +2,7 @@
   "name": "hyper-horizon-theme",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "My favorite theme for vscode right now on Hyper terminal.",
   "repository": "https://github.com/patrickfv/hyper-horizon-theme.git",
   "author": {
     "name": "patrickfv",
