@@ -15,7 +15,7 @@ const ansiMagenta = '#EE64AC';
 const ansiRed = '#E95678';
 const ansiYellow = '#FAB795';
 const selectionBackground = '#6C6F934D';
-const backgroundCursor = '#D5D8DA';
+//const backgroundCursor = '#D5D8DA';
 const foregroundCursor = '#6C6F9380';
 
 const colors = {
