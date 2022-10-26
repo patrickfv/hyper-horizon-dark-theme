@@ -2,7 +2,7 @@
   "name": "hyper-horizon-dark-theme",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "My favorite theme for vscode right now on Hyper terminal.",
+  "description": "Hyper theme based on horizon (https://github.com/jolaleye/horizon-theme-vscode/)",
   "repository": "https://github.com/patrickfv/hyper-horizon-dark-theme.git",
   "author": {
     "name": "patrickfv",
